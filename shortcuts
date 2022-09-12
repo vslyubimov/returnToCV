@@ -1,0 +1,9 @@
+python -m venv cv_venv
+
+cv_venv\Scripts\activate
+
+pip install numpy scipy matplotlib scikit-learn jupyter
+
+pip install opencv-contrib-python
+
+pip install dlib
